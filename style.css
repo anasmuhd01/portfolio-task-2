@@ -37,6 +37,26 @@
 }
 
 .about-intro {
-    background-color: grey;
+    padding: 70px;
+    height: 500px;
+    background-color: lightgray;
     text-align: center;
+
+}
+
+.about-box {
+    
+    border-radius: 5px;
+    margin: 20px;
+    height: 300px;
+    width: 300px;
+    background-color: white;
+}
+
+.about-box {
+    padding-top: 30px;
+}
+
+.about-box>h3 {
+    padding-top: 20px;
 }
