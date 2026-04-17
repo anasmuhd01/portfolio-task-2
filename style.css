@@ -27,3 +27,16 @@
     height: 12px;
     border-radius: 0;
 }
+
+
+
+.about-content {
+
+    padding: 50px;
+    text-align: center;
+}
+
+.about-intro {
+    background-color: grey;
+    text-align: center;
+}
